@@ -7,11 +7,12 @@ It offers a user-friendly interface and supports basic arithmetic operations for
 ✔️ Responsive Design
 ✔️ Real-Time Calculation
 
-📸 [View]https://code-alpha-calculator-chi.vercel.app/
+📸 [View]
+https://code-alpha-calculator-chi.vercel.app/
 
 📥 Installation
 Follow these steps to run the project:
 
 
-git clone https://github.com/username/modern-calculator.git
+git clone(https://github.com/Gultekinn/CodeAlpha_Calculator.git)
 cd modern-calculator
