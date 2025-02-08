@@ -15,4 +15,5 @@ Follow these steps to run the project:
 
 
 git clone(https://github.com/Gultekinn/CodeAlpha_Calculator.git)
+
 cd CodeAlpha_Calculator
